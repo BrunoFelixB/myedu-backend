@@ -30,10 +30,10 @@ O comando irá ligar o servidor e o mesmo funcionará através da porta 3000.
 http://localhost:3000/users/all
 
 ```
-está rota irá retornar todas as universidades armazenadas no banco de dados.
+está rota irá retornar todas os usuários armazenadas no banco de dados.
 
 
-### Método para buscar a universidade por id:
+### Método para buscar usuário por id:
 
 ### Método GET
 
@@ -43,7 +43,7 @@ o id deve ser passado por parâmetro
 http://localhost:3000/users/:id
 
 ```
-essa rota irá retorna a universidade referente ao ID.
+essa rota irá retorna o usuário referente ao ID.
 
 ### Método para Login de usuário:
 
