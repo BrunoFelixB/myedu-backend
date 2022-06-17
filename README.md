@@ -1,6 +1,6 @@
 # Back End do projeto MyEdu para o Bootcamp Tera 
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
